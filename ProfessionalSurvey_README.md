@@ -8,7 +8,7 @@ Once you have PowerBI installed, you can open the dashboard file and start explo
 Additionally, you can download the PowerPoint version of the dashboard.
 
 # Data Source
-The data used in this dashboard comes from aProfessional Survey conducted by Alex the Analyst.
+The data used in this dashboard comes from a Professional Survey conducted by Alex the Analyst.
 
 # Using the Dashboard
 
