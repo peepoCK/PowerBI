@@ -5,6 +5,7 @@
 # Getting Started
 To get started with the dashboard, you need to have PowerBI installed.
 Once you have PowerBI installed, you can open the dashboard file and start exploring the data.
+Additionally, you can download the PowerPoint version of the dashboard.
 
 # Data Source
 The data used in this dashboard comes from aProfessional Survey conducted by Alex the Analyst.
